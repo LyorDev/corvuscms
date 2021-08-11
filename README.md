@@ -5,5 +5,7 @@ Essa CMS foi idealizada para um projeto de Habbo, porém o projeto não evoluiu 
 
 O php da cms eu decidi não postar, pois tinha muita gente falando que tinha falhas, e eu não sei mexer em php.
 
+A CMS é totalmente responsiva e foi feita com Bootstrap
+
 # Créditos
 Lyor & Rettro
